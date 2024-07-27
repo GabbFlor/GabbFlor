@@ -1,6 +1,6 @@
 ## Olá, eu sou o Gabriel Florindo 👋 ✌️
 
-### Sou um desenvolvedor FullStack com experiência em Web e Mobile
+### Sou um desenvolvedor FullStack com experiência em Web e Mobile 🖥️📱
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabbFlor&show_icons=true&theme=tokyonight">
