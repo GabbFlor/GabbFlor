@@ -3,8 +3,8 @@
 ### Sou um desenvolvedor FullStack com experiência em Web e Mobile 🖥️📱
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabbFlor&show_icons=true&theme=tokyonight">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabbFlor&layout=compact&theme=tokyonight">
+  <img height="180em" src="https://github.com/GabbFlor/github-readme-stats/api?username=GabbFlor&show_icons=true&theme=tokyonight">
+  <img height="180em" src="https://github.com/GabbFlor/github-readme-stats/api/top-langs/?username=GabbFlor&layout=compact&theme=tokyonight">
 </p>
 
 ##
